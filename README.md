@@ -13,8 +13,8 @@
 
 ## 验证
 浏览器输入: http://127.0.0.1:8082/sayHello/dubbo  
-输出String: Hello dubbo
-浏览器输入:http://localhost:8082/getCity
+输出String: Hello dubbo<br>
+浏览器输入:http://localhost:8082/getCity<br>
 输出JSON/对象:
     
 
@@ -25,5 +25,5 @@
         "description": "是我的故乡"
     }
    
-使用duboo的管理平台(dubbo-admin应用放在ROOT下则路径:http://localhost:8088)
+使用dubbo的管理平台(dubbo-admin应用放在ROOT下则路径:http://localhost:8088)
 查看结果,初始账户为:root/root
