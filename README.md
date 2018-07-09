@@ -27,3 +27,5 @@
    
 使用dubbo的管理平台(dubbo-admin应用放在ROOT下则路径:http://localhost:8088)
 查看结果,初始账户为:root/root
+
+SpringCloud Netflix Eureka 服务治理[左转](https://github.com/jxnu-liguobin/SpringCloud-Learning)
